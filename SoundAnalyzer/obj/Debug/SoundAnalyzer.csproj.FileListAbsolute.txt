@@ -1,0 +1,13 @@
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\bin\Debug\SoundAnalyzer.exe.config
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\bin\Debug\SoundAnalyzer.exe
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\bin\Debug\SoundAnalyzer.pdb
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\obj\Debug\SoundAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\obj\Debug\SoundAnalyzer.Properties.Resources.resources
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\obj\Debug\SoundAnalyzer.csproj.GenerateResource.cache
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\obj\Debug\SoundAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\obj\Debug\SoundAnalyzer.exe
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\obj\Debug\SoundAnalyzer.pdb
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\obj\Debug\SoundAnalyzer.Form1.resources
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\bin\Debug\Form1.resx
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\bin\Debug\Form1.cs
+C:\Users\Ryan\Desktop\BCIT\Audio\SoundAnalyzer\SoundAnalyzer\bin\Debug\Form1.Designer.cs
