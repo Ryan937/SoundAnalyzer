@@ -161,7 +161,7 @@ namespace SoundAnalyzer
             this.chart1.Size = new System.Drawing.Size(776, 216);
             this.chart1.TabIndex = 1;
             this.chart1.Text = "chart1";
-            this.chart1.BackColor = Color.Black;
+            this.chart1.BackColor = Color.White;
             this.chart1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.chart1_MouseDown);
             this.chart1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.chart1_MouseUp);
 
